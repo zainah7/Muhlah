@@ -7,11 +7,11 @@ const HeroSection = () => {
     <section className="bg-gradient-to-r from-blue-900 to-[#4285F4] text-white p-6 md:p-20 font-sans min-h-screen">
       <div className="mx-auto flex flex-col-reverse md:flex-row justify-between space-y-6 md:space-y-0 px-6 md:px-36">
         {/* Hero Image */}
-        <div className="flex justify-center py-4">
+        <div className="flex justify-center py-4 mt-10">
           <Image src={herobg} alt="hero bg" className="w-64 md:w-[32rem]" />
         </div>
         {/* Left Content */}
-        <div className="text-center md:text-left max-w-2xl space-y-4 md:space-y-6 flex flex-col justify-center">
+        <div className="text-center md:text-left max-w-2xl space-y-7 md:space-y-6 flex flex-col justify-center">
           <h1 className="text-3xl md:text-7xl font-bold leading-snug text-right">
             تمويل استهلاكي مصغّر.. على مهلك
           </h1>
