@@ -9,7 +9,7 @@ import feature3 from "../../public/assets/images/Featured icon3.svg";
 import feature4 from "../../public/assets/images/Featured icon4.svg";
 import FinanceInvestment from "../../public/assets/images/FinanceInvestment.svg";
 
-import linkedin from "@/public/assets/images/linkedin.svg";
+import linkedin from "@/public/assets/images/Linkedin.svg";
 import instagram from "@/public/assets/images/instegram.svg";
 import twitter from "@/public/assets/images/xapp.svg";
 import logo from "@/public/assets/images/logo.svg";
